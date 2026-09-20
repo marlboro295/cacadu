@@ -1,0 +1,6 @@
+C:\Users\anton\Desktop\12321341\TrayApp\src\main.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayApp.dir\Release\main.obj
+C:\Users\anton\Desktop\12321341\TrayApp\src\TrayIcon.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayApp.dir\Release\TrayIcon.obj
+C:\Users\anton\Desktop\12321341\TrayApp\src\process_utils.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayApp.dir\Release\process_utils.obj
+C:\Users\anton\Desktop\12321341\TrayApp\src\rpc_client.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayApp.dir\Release\rpc_client.obj
+C:\Users\anton\Desktop\12321341\TrayApp\src\service_control.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayApp.dir\Release\service_control.obj
+C:\Users\anton\Desktop\12321341\build-win\Release\generated\rpc\tray_c.c;C:\Users\anton\Desktop\12321341\build-win\TrayApp.dir\Release\tray_c.obj

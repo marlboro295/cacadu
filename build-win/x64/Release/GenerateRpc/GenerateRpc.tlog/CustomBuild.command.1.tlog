@@ -1,0 +1,30 @@
+^C:\USERS\ANTON\DESKTOP\12321341\BUILD-WIN\CMAKEFILES\37812720037BD5C191DAFE82F2500952\TRAY_C.C.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E make_directory C:/Users/anton/Desktop/12321341/build-win/Release/generated/rpc
+if %errorlevel% neq 0 goto :cmEnd
+midl /nologo /env x64 /out C:/Users/anton/Desktop/12321341/build-win/Release/generated/rpc /header tray_h.h C:/Users/anton/Desktop/12321341/TrayApp/idl/tray.idl
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ANTON\DESKTOP\12321341\BUILD-WIN\CMAKEFILES\6DEC513CD8CB819C3DF849D65BABDC9D\GENERATERPC.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ANTON\DESKTOP\12321341\TRAYAPP\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/anton/Desktop/12321341/TrayApp -BC:/Users/anton/Desktop/12321341/build-win --check-stamp-file C:/Users/anton/Desktop/12321341/build-win/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

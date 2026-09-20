@@ -1,0 +1,9 @@
+C:\Users\anton\Desktop\12321341\TrayApp\service\service.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\service.obj
+C:\Users\anton\Desktop\12321341\TrayApp\service\session.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\session.obj
+C:\Users\anton\Desktop\12321341\TrayApp\service\rpc.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\rpc.obj
+C:\Users\anton\Desktop\12321341\TrayApp\service\rpc_security.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\rpc_security.obj
+C:\Users\anton\Desktop\12321341\TrayApp\service\antivirus_manager.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\antivirus_manager.obj
+C:\Users\anton\Desktop\12321341\TrayApp\service\http_client.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\http_client.obj
+C:\Users\anton\Desktop\12321341\TrayApp\service\auth_manager.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\auth_manager.obj
+C:\Users\anton\Desktop\12321341\TrayApp\service\license_manager.cpp;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\license_manager.obj
+C:\Users\anton\Desktop\12321341\build-win\Release\generated\rpc\tray_s.c;C:\Users\anton\Desktop\12321341\build-win\TrayService.dir\Release\tray_s.obj

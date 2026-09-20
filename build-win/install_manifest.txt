@@ -1,0 +1,2 @@
+C:/Users/anton/Desktop/12321341/.\package/TrayApp.exe
+C:/Users/anton/Desktop/12321341/.\package/TrayService.exe

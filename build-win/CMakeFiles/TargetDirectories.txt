@@ -1,0 +1,6 @@
+C:/Users/anton/Desktop/12321341/build-win/CMakeFiles/GenerateRpc.dir
+C:/Users/anton/Desktop/12321341/build-win/CMakeFiles/TrayApp.dir
+C:/Users/anton/Desktop/12321341/build-win/CMakeFiles/TrayService.dir
+C:/Users/anton/Desktop/12321341/build-win/CMakeFiles/INSTALL.dir
+C:/Users/anton/Desktop/12321341/build-win/CMakeFiles/ALL_BUILD.dir
+C:/Users/anton/Desktop/12321341/build-win/CMakeFiles/ZERO_CHECK.dir
